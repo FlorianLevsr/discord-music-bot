@@ -12,12 +12,13 @@ Découverte de la librairie Discord.js - Création d'un petit bot pour lire des 
 ### Technologies utilisées
 
 + NodeJS
-+ DiscordJS
++ [DiscordJS](https://discord.js.org/)
++ [ytdl-core](https://www.npmjs.com/package/ytdl-core)
 
 ### Initialisation
 
 1. Créez le fichier ```config.json```, nécessaire au bon fonctionnement du bot, en vous inspirant du fichier ```config_example.json``` disponible.
-2. Installez la librairie Discord.js à l'aide la commande ```npm install discord.js```
+2. Installez la librairie Discord.js à l'aide la commande ```npm install discord.js``` ainsi que le package ytdl-core avec la commande ```npm install ytdl-core```
 3. Executez la commande ```npm run start``` pour lancer l'application. La commande ```npm run dev``` est également disponible mais il vous faudra dans ce cas avoir préalablement installé le package [nodemon](https://www.npmjs.com/package/nodemon).
 
 *nb. Vous devez également avoir accès à l'API Youtube (en vous inscrivant [ici](https://developers.google.com/youtube/v3)) ainsi qu'au Discord Developer Portal (inscription et marche à suivre, [ici](https://discord.com/developers/applications)).*
