@@ -4,9 +4,9 @@ Découverte de la librairie Discord.js - Création d'un petit bot pour lire des 
 
 ## MusicBOT
 
-- [Technologies utilisées]()
-- [Initialisation]()
-- [Mode d'emploi]()
+- [Technologies utilisées](https://github.com/FlorianLevsr/discord-music-bot#technologies-utilis%C3%A9es)
+- [Initialisation](https://github.com/FlorianLevsr/discord-music-bot#initialisation)
+- [Mode d'emploi](https://github.com/FlorianLevsr/discord-music-bot#mode-demploi)
 
 
 ### Technologies utilisées
