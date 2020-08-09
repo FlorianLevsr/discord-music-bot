@@ -1,0 +1,6 @@
+{
+	"prefix": "!",
+    "token": "your discord app toekn goes here",
+    "apiKey": "your yt api key goes here",
+    "playlistMaxSlotsAuthorized": 3
+}
